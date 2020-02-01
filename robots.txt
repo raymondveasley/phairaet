@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ecohceebei.whatisnext.se/sitemap.xml
